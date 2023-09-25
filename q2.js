@@ -1,3 +1,6 @@
+/* Algoritmo Fatorial implementado de forma recursiva em Javascript
+Questão 02 da prova prática SERPRO 2023 */
+
 while(true){
     const number = prompt("Digite um número entre 0 e 100.", 20);
     if(number>=0 && number<=100){

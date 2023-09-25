@@ -1,6 +1,9 @@
 import java.util.ArrayList; 
 import java.util.Collections; 
 
+/* Algoritmo de manipulação de Arraylist implementado em Java
+Questão 03 da prova prática SERPRO 2023 */
+
 public class q3 { 
     public static void main(String args[]) { 
         ArrayList<String> lista = new ArrayList<>(); 
